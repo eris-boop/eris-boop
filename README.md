@@ -15,8 +15,8 @@ Hello there! I'm eris-boop 👋<br>My work is guided by the philosophy that a mo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eris-boop&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eris-boop&limit=5&theme=solarized-light&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eris-boop&icon=6&color=12)](https://visitcount.itsvg.in)
